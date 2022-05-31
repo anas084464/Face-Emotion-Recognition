@@ -1,7 +1,7 @@
 # Face-Emotion-Recognition
-## Deep Learning + Machine Engineering Project 
+Deep Learning + Machine Engineering Project 
 
-## AlmaBetter Verified Project - AlmaBetter School
+AlmaBetter Verified Project - AlmaBetter School
 
 
 # Problem Statement and Project Description
@@ -61,3 +61,7 @@ Note: Install opencv-python as well, opencv-python-headless in the requirements 
 
 5. Run real_time_demo.py
 
+# Conclusion
+With this, the notebook comes to an end. Some important conclusions in the project includes:
+Model Training results: loss: 0.7801 - accuracy: 0.7084 - val_loss: 0.9670 - val_accuracy: 0.6646
+Next step is to create a streamlit web-app for the same and deploy it for real time use. Further work can be explored in the github repository.
