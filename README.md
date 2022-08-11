@@ -1,7 +1,7 @@
 #                                                               Face-Emotion-Recognition
-#                                                     Deep Learning + Machine Engineering Project 
+###                                                    Deep Learning + Machine Engineering Project 
 
- #                                                  AlmaBetter Verified Project - AlmaBetter School
+###                                                  AlmaBetter Verified Project - AlmaBetter School
 
 
 # Problem Statement and Project Description
