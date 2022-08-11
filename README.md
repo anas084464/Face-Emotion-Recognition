@@ -15,7 +15,7 @@ The dataset used in training the CNN model for the above mentioned problem state
 This project contains three major executable files, the model output, two documentation files as well as a data directory as follows:
 
 Executable Files:
-Face_Emotion_Recognition_Vithika_Karan.ipynb - Google Collab notebook containing data summary, exploration, visualisations and modeling.
+Face_Emotion_Recognition_Anas mustafa.ipynb - Google Collab notebook containing data summary, exploration, visualisations and modeling.
 real_time_demo.py - Local Real Time Emotion Detection through Open CV - Python.
 app.py - Streamlit Web Application for Emotion Detection
 Output File:
